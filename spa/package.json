@@ -7,9 +7,11 @@
   "private": true,
   "devDependencies": {
     "webpack": "^5.90.3",
-    "webpack-cli": "^5.1.4"
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.0.3"
   },
   "scripts": {
-    "build": "webpack"
+    "build": "webpack",
+    "start": "webpack serve --open"
   }
 }

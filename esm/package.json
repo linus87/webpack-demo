@@ -1,0 +1,11 @@
+{
+  "name": "esm",
+  "version": "1.0.0",
+  "description": "webpack on esm modules",
+  "main": "index.js",
+  "author": "linus.yan@hotmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^5.90.3"
+  }
+}

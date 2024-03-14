@@ -1,4 +1,3 @@
-# ECMAScript Module
 # Setup
 ```shell
 yarn install --dev webpack
